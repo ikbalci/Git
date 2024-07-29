@@ -1,1 +1,3 @@
 Initial commit
+
+Fixed the bug in 2.5.4
